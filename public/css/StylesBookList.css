@@ -1,0 +1,17 @@
+.book {
+    display: block;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.book-title a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.book-info {
+    margin-top: 5px;
+}
+
+
